@@ -1,0 +1,30 @@
+project:
+title: Banking Management System SQL Project
+description: >
+A banking management system database project using SQL to manage accounts and transactions.
+Features include balance calculation, fraud detection queries, and monthly statements.
+
+
+technologies:
+- MySQL / MariaDB
+- SQL Queries
+
+
+features:
+- Accounts & transactions management
+- Balance calculation
+- Fraud detection queries
+- Monthly statements
+
+
+use_cases:
+- Banking software simulation
+- SQL query practice
+- Data analysis for finance
+
+
+author: Sridha
+role: Database Developer
+
+
+license: MIT
